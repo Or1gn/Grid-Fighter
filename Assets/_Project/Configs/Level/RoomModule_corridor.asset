@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 006be63c9fafca444aced5ed075a4d74, type: 3}
+  m_Name: RoomModule_corridor
+  m_EditorClassIdentifier: Assembly-CSharp::Core.Grid.RoomModuleSO
+  Prefab: {fileID: 1743296756013527755, guid: 26283e29d0297ff4885c100b5dcea781, type: 3}
+  OpenSockets: 10
+  IsEndCap: 0

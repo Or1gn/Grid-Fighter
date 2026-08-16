@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Grid Fighter\\Grid Fighter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\grid fighter\\grid fighter\\assets\\_project\\scripts\\characters\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\scripts\\characters\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Grid Fighter\\Grid Fighter\\Assets\\_Project\\Scripts\\Characters\\HeroController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Project\\Scripts\\Characters\\HeroController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\grid fighter\\grid fighter\\assets\\_project\\ui\\entityhealthview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\ui\\entityhealthview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\grid fighter\\grid fighter\\assets\\_project\\scripts\\scopes\\gamelifetimescope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\scripts\\scopes\\gamelifetimescope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "D:\\Grid Fighter\\Grid Fighter\\Assets\\_Project\\Scripts\\Characters\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\Characters\\EnemyController.cs",
+              "ToolTip": "D:\\Grid Fighter\\Grid Fighter\\Assets\\_Project\\Scripts\\Characters\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\Characters\\EnemyController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwD8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T11:20:28.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntityHealthView.cs",
+              "DocumentMoniker": "D:\\Grid Fighter\\Grid Fighter\\Assets\\_Project\\UI\\EntityHealthView.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\UI\\EntityHealthView.cs",
+              "ToolTip": "D:\\Grid Fighter\\Grid Fighter\\Assets\\_Project\\UI\\EntityHealthView.cs",
+              "RelativeToolTip": "Assets\\_Project\\UI\\EntityHealthView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T11:19:01.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameLifetimeScope.cs",
+              "DocumentMoniker": "D:\\Grid Fighter\\Grid Fighter\\Assets\\_Project\\Scripts\\Scopes\\GameLifetimeScope.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\Scopes\\GameLifetimeScope.cs",
+              "ToolTip": "D:\\Grid Fighter\\Grid Fighter\\Assets\\_Project\\Scripts\\Scopes\\GameLifetimeScope.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\Scopes\\GameLifetimeScope.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T11:05:11.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HeroController.cs",
+              "DocumentMoniker": "D:\\Grid Fighter\\Grid Fighter\\Assets\\_Project\\Scripts\\Characters\\HeroController.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\Characters\\HeroController.cs",
+              "ToolTip": "D:\\Grid Fighter\\Grid Fighter\\Assets\\_Project\\Scripts\\Characters\\HeroController.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\Characters\\HeroController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAADwv3YAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T11:00:01.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
